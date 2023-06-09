@@ -33,5 +33,5 @@
 | <img width=200px src="https://github.com/suhhyun524.png"/> | <img width=200px src="https://avatars.githubusercontent.com/u/86199517?v=4"/> | <img width=200px src="https://avatars.githubusercontent.com/u/98574872?v=4"/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | 
 |                          최수현                               |                          김민서                               |                          박수연                               |
-|         [suhhyun524](https://github.com/suhhyun524)         |          [seoyamin](https://github.com/seoyamin)             |          [seoyamin](https://github.com/run-deep)             |
+|         [suhhyun524](https://github.com/suhhyun524)         |          [seoyamin](https://github.com/seoyamin)             |          [run-deep](https://github.com/run-deep)             |
 </div>
